@@ -1,0 +1,15 @@
+body{
+    background-color: teal;
+}
+.main-div{
+    height: 80vh;
+    text-align: center;
+}
+h1{
+    padding-top: 15vh;
+    font-size: 60px;
+}
+.para {
+padding-top: 5vh;
+font-size: 40px;
+}
